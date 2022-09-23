@@ -1,0 +1,12 @@
+.city {
+    background-color: rgb(0, 255, 55);
+    color: rgb(255, 0, 0);
+    border: 2px solid rgb(8, 3, 255);
+    margin: 20px;
+    padding: 20px;
+  }
+
+  .tab{
+    align-items: center;
+
+  }

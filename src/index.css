@@ -1,0 +1,22 @@
+.st {
+  background: chartreuse;
+  margin-block: 100px;
+  max-width: 584px;
+  padding: 7px;
+  font-style: oblique;
+  font-family: fangsong;
+  text-align: center;
+  margin-left: 548px;
+}
+
+
+#corid{ background: #2cef46;
+margin-left: 390px;
+margin-right: 390px;
+}
+
+#snamid{
+  background: #f17a18;
+margin-left: 390px;
+margin-right: 390px;
+}
